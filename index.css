@@ -60,7 +60,6 @@ footer p {
   margin-top: 2px;
 }
 
-
 nav ul {
   display: flex;
   justify-content: space-between;
@@ -81,6 +80,14 @@ nav a:hover {
   height: 20px;
   float: right;
   
+}
+
+.slider i {
+  display: block;
+  justify-content: center;
+  text-align: center;
+  margin: 3px;
+  font-size: 15px;
 }
 
 .slider {
@@ -127,10 +134,3 @@ nav a:hover {
   left: 21px;
 }
 
-.fa-sun {
-  color: #af6c00;
-}
-
-.fa-moon {
-  color: #f1c40f;  
-}
